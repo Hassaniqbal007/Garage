@@ -6,5 +6,5 @@ session_start();
 	session_destroy();
 	unset($_SESSION['user']);
 	unset($_SESSION['user_name']);
-	header($main_path."Location:index.php");
+	header("Location:index.php");
 ?>
