@@ -108,7 +108,7 @@ $sql="SELECT * FROM `users` WHERE `username`='$user'";
                                         </div>
                                     </li>
                                     
-                                    <li class="user-list"><a class="px-3 py-2" href="<?php echo $main_path; ?>/logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
+                                    <li class="user-list"><a class="px-3 py-2" href="<?php echo $path; ?>/logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
                                 </ul>
                             </div>
                         </li>
