@@ -592,7 +592,7 @@ require $main_path.'/security.php';
     <script src="../assets/libs/select2/dist/js/select2.min.js"></script>
     <script src="../dist/js/pages/forms/select2/select2.init.js"></script>
      <script src="../assets/libs/quill/dist/quill.min.js"></script>
-    <script src="js/invoice.js"></script>
+    <script src="../js/invoice.js"></script>
 </body>
 
 </html>
